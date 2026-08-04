@@ -5,12 +5,12 @@
    
    I
    I
-   I
-   I
-   I
-   I
-   I
-   I                                         0               0     0 
-   I                                         \                \    \
-   I                                         /                /    /
-   I                                     MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+   I                                                                                    I------------I
+   I                                                                                    I     \/     I
+   I                                                                                    I      O     I
+   I                                                                                    I      I     I
+   I                                                                                    I      /\    I
+   I                                         0               0     0                    I            I
+   I                                         \                \    \                    I            I
+   I                                         /                /    /                    I            I
+   I                                     MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
